@@ -1,4 +1,4 @@
-# Egg + React + SSR + Typescript + antd 应用骨架
+# Egg + React + SSR + Typescript + Antd 应用骨架
 
 详细用法实现请查看[官方文档](http://ykfe.surge.sh)
 
